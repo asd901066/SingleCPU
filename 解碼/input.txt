@@ -1,0 +1,35 @@
+add	$s2, $s2, $s0
+
+sub	$s2, $s2, $s0
+
+beq	$s2, $s2, 3
+
+bgtz $s2, 3
+
+j	6
+
+and	$s2, $s0, $s2
+
+or	$s2, $s0, $s2
+
+addiu $s3, $s2 ,15
+
+sll $s3, $s4, 2
+
+srl $s3, $s2, 1
+
+lw	$t7, 0($s1)
+
+sw 	$s2, 24($zero)
+
+slt $s0, $s2, $s3
+
+mult	$s2, $s1
+
+mfhi $s0
+
+mflo $s0
+
+ori $s2, $s0, 9
+
+end
