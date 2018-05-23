@@ -1,0 +1,651 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/work_tool/ModelSim/Modeltech_pe_edu_10.4a/examples
+vadd32
+Z0 !s110 1464107706
+!i10b 1
+!s100 QV<0ZKKd^9l`>f?T>;17f2
+IW42W3@RH>@J2[=B[RfCcF1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Sian/Desktop/winter/test
+Z3 w1454480452
+8C:/Users/Sian/Desktop/winter/test/add32.v
+FC:/Users/Sian/Desktop/winter/test/add32.v
+L0 5
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1464107706.000000
+!s107 C:/Users/Sian/Desktop/winter/test/add32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/add32.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu
+Z7 !s110 1464107707
+!i10b 1
+!s100 =Jk8il138XU=0497_VOA13
+I?_imCKK0j0B30K3ENk_3E2
+R1
+R2
+w1458107970
+8C:/Users/Sian/Desktop/winter/test/alu.v
+FC:/Users/Sian/Desktop/winter/test/alu.v
+Z8 L0 14
+R4
+r1
+!s85 0
+31
+Z9 !s108 1464107707.000000
+!s107 C:/Users/Sian/Desktop/winter/test/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/alu.v|
+!s101 -O0
+!i113 1
+R6
+valu_ctl
+R7
+!i10b 1
+!s100 zClf<IdX^h^1J4`Eao@2O3
+IRW[E7;jIN]_i`=GL<T@=o1
+R1
+R2
+w1464107090
+8C:/Users/Sian/Desktop/winter/test/alu_ctl.v
+FC:/Users/Sian/Desktop/winter/test/alu_ctl.v
+L0 11
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/alu_ctl.v|
+!s101 -O0
+!i113 1
+R6
+vBranch_Detection
+R7
+!i10b 1
+!s100 [Y_[jj[U@N<Khg=Fg1ClX2
+ID2Fm?lnIM4eYif;APkoB>1
+R1
+R2
+w1460543746
+8C:/Users/Sian/Desktop/winter/test/BranchDetection.v
+FC:/Users/Sian/Desktop/winter/test/BranchDetection.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/BranchDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/BranchDetection.v|
+!s101 -O0
+!i113 1
+R6
+n@branch_@detection
+vcontrol_single
+R7
+!i10b 1
+!s100 N@_UN:koL;j4`a67VcI6:0
+I>>zTBjEYf^KhQ`S24c94V0
+R1
+R2
+w1464107502
+8C:/Users/Sian/Desktop/winter/test/control_single.v
+FC:/Users/Sian/Desktop/winter/test/control_single.v
+L0 17
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/control_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/control_single.v|
+!s101 -O0
+!i113 1
+R6
+vEX_MEM
+R7
+!i10b 1
+!s100 ?IW<GWH4]CY_23NaHWX?<0
+I6iO:UU8?eVXZL7]QSo9V;2
+R1
+R2
+w1458107930
+8C:/Users/Sian/Desktop/winter/test/ex_mem.v
+FC:/Users/Sian/Desktop/winter/test/ex_mem.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/ex_mem.v|
+!s101 -O0
+!i113 1
+R6
+n@e@x_@m@e@m
+vforwarding
+R7
+!i10b 1
+!s100 Q;?A4j6=2`lY^==B2@E]H0
+ImfG^D4XPS<H5NfIjM=hch3
+R1
+R2
+w1459070388
+8C:/Users/Sian/Desktop/winter/test/forwarding.v
+FC:/Users/Sian/Desktop/winter/test/forwarding.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/forwarding.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/forwarding.v|
+!s101 -O0
+!i113 1
+R6
+vHazard_Detection
+R7
+!i10b 1
+!s100 6<mV:HXBCNDX7zO`ni;gV3
+I`]3P1DzRozWMzN^X5R?Zl3
+R1
+R2
+w1460543250
+8C:/Users/Sian/Desktop/winter/test/HazardDetection.v
+FC:/Users/Sian/Desktop/winter/test/HazardDetection.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/HazardDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/HazardDetection.v|
+!s101 -O0
+!i113 1
+R6
+n@hazard_@detection
+vHDU
+!s110 1459273772
+!i10b 1
+!s100 @0ee5k=gTd:dAN`2lmVCG3
+I>RhCl00z1PNid2>:hM`623
+R1
+R2
+w1459072456
+8C:/Users/Sian/Desktop/winter/test/HDU.v
+FC:/Users/Sian/Desktop/winter/test/HDU.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1459273772.000000
+!s107 C:/Users/Sian/Desktop/winter/test/HDU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/HDU.v|
+!s101 -O0
+!i113 1
+R6
+n@h@d@u
+vhilo
+R7
+!i10b 1
+!s100 >Uaed48h^0dzT4FP8TQec2
+I_65Cg:[oAnX4O:hWJSf:V1
+R1
+R2
+w1463409137
+8C:/Users/Sian/Desktop/winter/test/hilo.v
+FC:/Users/Sian/Desktop/winter/test/hilo.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/hilo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/hilo.v|
+!s101 -O0
+!i113 1
+R6
+vID_EX
+R7
+!i10b 1
+!s100 <bH;zNZ6?;34Z9@Nhc>401
+II6[D?]nG2k[nH@aPA7N8D2
+R1
+R2
+w1458117912
+8C:/Users/Sian/Desktop/winter/test/id_ex.v
+FC:/Users/Sian/Desktop/winter/test/id_ex.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/id_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/id_ex.v|
+!s101 -O0
+!i113 1
+R6
+n@i@d_@e@x
+vIF_ID
+R7
+!i10b 1
+!s100 S3oT1^3ej?@5]5S5o>3kA2
+Id;QAW=m5o06X1KGM:Z_El0
+R1
+R2
+w1460545112
+8C:/Users/Sian/Desktop/winter/test/if_id.v
+FC:/Users/Sian/Desktop/winter/test/if_id.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/if_id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/if_id.v|
+!s101 -O0
+!i113 1
+R6
+n@i@f_@i@d
+vMEM_WB
+R7
+!i10b 1
+!s100 PV1NbzC[VmT_VR9^;cP?l3
+Io9K<QOTlOWUWlF`l7bh_N2
+R1
+R2
+w1458109688
+8C:/Users/Sian/Desktop/winter/test/mem_wb.v
+FC:/Users/Sian/Desktop/winter/test/mem_wb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/mem_wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mem_wb.v|
+!s101 -O0
+!i113 1
+R6
+n@m@e@m_@w@b
+vmemory
+R7
+!i10b 1
+!s100 DY1hn5B6PF?X7CS1Hkf8@2
+IjP_J`AWcjUeGSARc2<R9J3
+R1
+R2
+R3
+8C:/Users/Sian/Desktop/winter/test/memory.v
+FC:/Users/Sian/Desktop/winter/test/memory.v
+R8
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sian/Desktop/winter/test/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/memory.v|
+!s101 -O0
+!i113 1
+R6
+vminus
+Z10 !s110 1464107708
+!i10b 1
+!s100 oKjD_BEQBS>WP:k[aDg[m1
+I5ck>6onF5abce:oKGcE]z2
+R1
+R2
+w1457510102
+8C:/Users/Sian/Desktop/winter/test/Minus.v
+FC:/Users/Sian/Desktop/winter/test/Minus.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1464107708.000000
+!s107 C:/Users/Sian/Desktop/winter/test/Minus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/Minus.v|
+!s101 -O0
+!i113 1
+R6
+vmips_single
+R10
+!i10b 1
+!s100 QLiAoE[>kBaS5zSe]KNiV0
+IXIYkP`:XY:lnbH7;D_`0l0
+R1
+R2
+w1464107695
+8C:/Users/Sian/Desktop/winter/test/mips_single.v
+FC:/Users/Sian/Desktop/winter/test/mips_single.v
+L0 3
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/mips_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mips_single.v|
+!s101 -O0
+!i113 1
+R6
+vMult_Detection
+R10
+!i10b 1
+!s100 hNO4TZcP1S3MMX3HHdBhH3
+Ik9O6PkH:IVM_hlR_Ej;g>1
+R1
+R2
+w1460543271
+8C:/Users/Sian/Desktop/winter/test/MultFSM.v
+FC:/Users/Sian/Desktop/winter/test/MultFSM.v
+L0 2
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/MultFSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/MultFSM.v|
+!s101 -O0
+!i113 1
+R6
+n@mult_@detection
+vmultip
+R10
+!i10b 1
+!s100 k>zE2JdjFXKIn>8Kn1;`z0
+IJ:;m=TGAL3e4LhKM1=2UN3
+R1
+R2
+Z12 w1463407727
+Z13 8C:/Users/Sian/Desktop/winter/test/multiplier.v
+Z14 FC:/Users/Sian/Desktop/winter/test/multiplier.v
+L0 2
+R4
+r1
+!s85 0
+31
+R11
+Z15 !s107 C:/Users/Sian/Desktop/winter/test/multiplier.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/multiplier.v|
+!s101 -O0
+!i113 1
+R6
+vmultiplier
+R10
+!i10b 1
+!s100 z;F>JZ@B07^DG9c4eCFYo1
+I:ed;TgV`JblFN5g]N7NoP2
+R1
+R2
+R12
+R13
+R14
+L0 78
+R4
+r1
+!s85 0
+31
+R11
+R15
+R16
+!s101 -O0
+!i113 1
+R6
+vmux0
+R10
+!i10b 1
+!s100 ]XQKJmJl4AfNmo2A[Nm?F3
+ImAZNcZL@JNb6:jKJaN6o?0
+R1
+R2
+w1464106369
+8C:/Users/Sian/Desktop/winter/test/mux0.v
+FC:/Users/Sian/Desktop/winter/test/mux0.v
+L0 5
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/mux0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mux0.v|
+!s101 -O0
+!i113 1
+R6
+vmux1
+R10
+!i10b 1
+!s100 JOfE<?@;[0]FK]80@IjK01
+IDVz]5RYf7ajhnSDLzJlmG1
+R1
+R2
+w1456848864
+8C:/Users/Sian/Desktop/winter/test/mux1.v
+FC:/Users/Sian/Desktop/winter/test/mux1.v
+L0 5
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/mux1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mux1.v|
+!s101 -O0
+!i113 1
+R6
+vmux2
+R10
+!i10b 1
+!s100 ZmnajK48[X=MUgX>O7jFY3
+IKGkjljG:Tk6C_lDSa[6LJ0
+R1
+R2
+w1457511404
+8C:/Users/Sian/Desktop/winter/test/mux2.v
+FC:/Users/Sian/Desktop/winter/test/mux2.v
+L0 5
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mux2.v|
+!s101 -O0
+!i113 1
+R6
+vmux3
+R10
+!i10b 1
+!s100 dJ`QW=fRe:T[GO8O@V_XA0
+Ig^AKoG;Y70fe4SXU@_3ST0
+R1
+R2
+w1458138227
+8C:/Users/Sian/Desktop/winter/test/mux3.v
+FC:/Users/Sian/Desktop/winter/test/mux3.v
+L0 5
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mux3.v|
+!s101 -O0
+!i113 1
+R6
+vmux4
+R10
+!i10b 1
+!s100 :cLGD3z_j5QkjYZ]Kfdjn2
+ISz0EOG^;]iO^glz;4ig:e1
+R1
+R2
+w1459072225
+8C:/Users/Sian/Desktop/winter/test/mux4.v
+FC:/Users/Sian/Desktop/winter/test/mux4.v
+L0 2
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/mux4.v|
+!s101 -O0
+!i113 1
+R6
+vMux_for_MultiDetection
+R10
+!i10b 1
+!s100 8[O:2?5F;[31baB_O:H^b1
+I`^`?[eRRC<oC<:SS=13L70
+R1
+R2
+w1460543308
+8C:/Users/Sian/Desktop/winter/test/Mux_for_MultiDetection.v
+FC:/Users/Sian/Desktop/winter/test/Mux_for_MultiDetection.v
+L0 2
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/Mux_for_MultiDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/Mux_for_MultiDetection.v|
+!s101 -O0
+!i113 1
+R6
+n@mux_for_@multi@detection
+vreg32
+Z17 !s110 1464107709
+!i10b 1
+!s100 X7D[Y7GI@:a]8[LLGKMAX0
+IMf?g;^C=bNN<`]zV0Sz6P2
+R1
+R2
+w1457504890
+8C:/Users/Sian/Desktop/winter/test/reg32.v
+FC:/Users/Sian/Desktop/winter/test/reg32.v
+L0 13
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/reg32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/reg32.v|
+!s101 -O0
+!i113 1
+R6
+vreg_file
+R10
+!i10b 1
+!s100 IK2[C4dJ=]TeN7i2VzI?G3
+ICz`@lF;i];4;U21V[o]o20
+R1
+R2
+R3
+8C:/Users/Sian/Desktop/winter/test/reg_file.v
+FC:/Users/Sian/Desktop/winter/test/reg_file.v
+L0 16
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Sian/Desktop/winter/test/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/reg_file.v|
+!s101 -O0
+!i113 1
+R6
+vsign_extend
+R17
+!i10b 1
+!s100 :K8nDdmg2`J8IX;hF^3eM2
+IH3aGgFH5mOZ@oBm:m]Gn=2
+R1
+R2
+R3
+8C:/Users/Sian/Desktop/winter/test/sign extend.v
+FC:/Users/Sian/Desktop/winter/test/sign extend.v
+L0 10
+R4
+r1
+!s85 0
+31
+Z18 !s108 1464107709.000000
+!s107 C:/Users/Sian/Desktop/winter/test/sign extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/sign extend.v|
+!s101 -O0
+!i113 1
+R6
+vsimple_Detection
+R17
+!i10b 1
+!s100 ZzR5g]3LRh07>e[]:9KLC2
+IFogTokeD2lE1c^HhFH5SM2
+R1
+R2
+w1459066210
+8C:/Users/Sian/Desktop/winter/test/simple_Detection.v
+FC:/Users/Sian/Desktop/winter/test/simple_Detection.v
+L0 2
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Sian/Desktop/winter/test/simple_Detection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/simple_Detection.v|
+!s101 -O0
+!i113 1
+R6
+nsimple_@detection
+vtb_SingleCycle
+R0
+!i10b 1
+!s100 LRF6I5HP6<8b<3@bN3BIi2
+IeZ@HNKh6k2[50nSJH=O1g2
+R1
+R2
+w1464104240
+8C:/Users/Sian/Desktop/winter/test/tb_SingleCycle.v
+FC:/Users/Sian/Desktop/winter/test/tb_SingleCycle.v
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sian/Desktop/winter/test/tb_SingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sian/Desktop/winter/test/tb_SingleCycle.v|
+!s101 -O0
+!i113 1
+R6
+ntb_@single@cycle

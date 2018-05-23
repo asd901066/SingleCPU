@@ -1,0 +1,184 @@
+C:/Users/Sian/Desktop/winter/test/reg_file.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/reg_file.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/mux3.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/mux3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/mux4.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/mux4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/simple_Detection.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/simple_Detection.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module simple_Detection
+
+Top level modules:
+	simple_Detection
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/Mux_for_MultiDetection.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/Mux_for_MultiDetection.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux_for_MultiDetection
+
+Top level modules:
+	Mux_for_MultiDetection
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/HazardDetection.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/HazardDetection.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Hazard_Detection
+
+Top level modules:
+	Hazard_Detection
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/id_ex.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/id_ex.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/memory.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/alu.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/reg32.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/reg32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/forwarding.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/forwarding.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module forwarding
+
+Top level modules:
+	forwarding
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/if_id.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/if_id.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/hilo.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/hilo.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hilo
+
+Top level modules:
+	hilo
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/BranchDetection.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/BranchDetection.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Branch_Detection
+
+Top level modules:
+	Branch_Detection
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/add32.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/add32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/tb_SingleCycle.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/tb_SingleCycle.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/mem_wb.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/mem_wb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/multiplier.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multip
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/MultFSM.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/MultFSM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mult_Detection
+
+Top level modules:
+	Mult_Detection
+
+} {} {}} {C:/Users/Sian/Desktop/winter/test/sign extend.v} {1 {vlog -work work -stats=none {C:/Users/Sian/Desktop/winter/test/sign extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/control_single.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/control_single.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/ex_mem.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/ex_mem.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/mux1.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/mux1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux1
+
+Top level modules:
+	mux1
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/alu_ctl.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/alu_ctl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/Minus.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/Minus.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module minus
+
+Top level modules:
+	minus
+
+} {} {}} C:/Users/Sian/Desktop/winter/test/mux2.v {1 {vlog -work work -stats=none C:/Users/Sian/Desktop/winter/test/mux2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}}
