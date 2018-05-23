@@ -1,0 +1,2 @@
+Memroy stall is freezing all pipelines
+ , therefore it must use xor gate to solve signal conflict . 
