@@ -1,0 +1,651 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Chester/Desktop/20160531
+vadd32
+Z1 !s110 1464701062
+!i10b 1
+!s100 QV<0ZKKd^9l`>f?T>;17f2
+Ig1>JOAeT6GVBVK^Ff5m?G0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1464054824
+8C:/Users/Chester/Desktop/20160531/add32.v
+FC:/Users/Chester/Desktop/20160531/add32.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1464701062.000000
+!s107 C:/Users/Chester/Desktop/20160531/add32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/add32.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu
+R1
+!i10b 1
+!s100 =Jk8il138XU=0497_VOA13
+IORnWbO:f`gmUIee1IdJS<3
+R2
+R0
+Z6 w1464054826
+8C:/Users/Chester/Desktop/20160531/alu.v
+FC:/Users/Chester/Desktop/20160531/alu.v
+Z7 L0 14
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/alu.v|
+!s101 -O0
+!i113 1
+R5
+valu_ctl
+R1
+!i10b 1
+!s100 zClf<IdX^h^1J4`Eao@2O3
+I41haXcZRT;1YZ2CbY`HUP0
+R2
+R0
+R6
+8C:/Users/Chester/Desktop/20160531/alu_ctl.v
+FC:/Users/Chester/Desktop/20160531/alu_ctl.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/alu_ctl.v|
+!s101 -O0
+!i113 1
+R5
+vBranch_Detection
+R1
+!i10b 1
+!s100 [Y_[jj[U@N<Khg=Fg1ClX2
+IjS=3KaK9Xi04WI<FA9XQn1
+R2
+R0
+R6
+8C:/Users/Chester/Desktop/20160531/BranchDetection.v
+FC:/Users/Chester/Desktop/20160531/BranchDetection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/BranchDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/BranchDetection.v|
+!s101 -O0
+!i113 1
+R5
+n@branch_@detection
+vcontrol_single
+R1
+!i10b 1
+!s100 M4DODNgnHE^d`b]9W6K[V3
+IK:f`0`DJB1>zzdV<=gZ6X0
+R2
+R0
+w1464700559
+8C:/Users/Chester/Desktop/20160531/control_single.v
+FC:/Users/Chester/Desktop/20160531/control_single.v
+L0 17
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/control_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/control_single.v|
+!s101 -O0
+!i113 1
+R5
+vEX_MEM
+R1
+!i10b 1
+!s100 ?IW<GWH4]CY_23NaHWX?<0
+IgOYfnG<c;[SQV4kfJ4VGL1
+R2
+R0
+R6
+8C:/Users/Chester/Desktop/20160531/ex_mem.v
+FC:/Users/Chester/Desktop/20160531/ex_mem.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/ex_mem.v|
+!s101 -O0
+!i113 1
+R5
+n@e@x_@m@e@m
+vforwarding
+R1
+!i10b 1
+!s100 Q;?A4j6=2`lY^==B2@E]H0
+IFZzTPMYhb@T6>kM_b3d^i0
+R2
+R0
+R6
+8C:/Users/Chester/Desktop/20160531/forwarding.v
+FC:/Users/Chester/Desktop/20160531/forwarding.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/forwarding.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/forwarding.v|
+!s101 -O0
+!i113 1
+R5
+vHazard_Detection
+Z8 !s110 1464701063
+!i10b 1
+!s100 6<mV:HXBCNDX7zO`ni;gV3
+IF4L8^NWg=CMOz2Di14Doe3
+R2
+R0
+R6
+8C:/Users/Chester/Desktop/20160531/HazardDetection.v
+FC:/Users/Chester/Desktop/20160531/HazardDetection.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z9 !s108 1464701063.000000
+!s107 C:/Users/Chester/Desktop/20160531/HazardDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/HazardDetection.v|
+!s101 -O0
+!i113 1
+R5
+n@hazard_@detection
+vhilo
+R8
+!i10b 1
+!s100 >Uaed48h^0dzT4FP8TQec2
+I:f2Nk;?5LkUh442E1;:Qe1
+R2
+R0
+Z10 w1464054828
+8C:/Users/Chester/Desktop/20160531/hilo.v
+FC:/Users/Chester/Desktop/20160531/hilo.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/hilo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/hilo.v|
+!s101 -O0
+!i113 1
+R5
+vID_EX
+R8
+!i10b 1
+!s100 <bH;zNZ6?;34Z9@Nhc>401
+Iaz>D`MQ`_=QL_Ojkde[2N1
+R2
+R0
+R10
+8C:/Users/Chester/Desktop/20160531/id_ex.v
+FC:/Users/Chester/Desktop/20160531/id_ex.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/id_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/id_ex.v|
+!s101 -O0
+!i113 1
+R5
+n@i@d_@e@x
+vIF_ID
+R8
+!i10b 1
+!s100 S3oT1^3ej?@5]5S5o>3kA2
+IV9o=H@:GkLeD_SUEGoY_R3
+R2
+R0
+R10
+8C:/Users/Chester/Desktop/20160531/if_id.v
+FC:/Users/Chester/Desktop/20160531/if_id.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/if_id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/if_id.v|
+!s101 -O0
+!i113 1
+R5
+n@i@f_@i@d
+vMEM_WB
+R8
+!i10b 1
+!s100 PV1NbzC[VmT_VR9^;cP?l3
+I3cbNecO??B<Pl0JSZI6g@2
+R2
+R0
+R10
+8C:/Users/Chester/Desktop/20160531/mem_wb.v
+FC:/Users/Chester/Desktop/20160531/mem_wb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/mem_wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mem_wb.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m_@w@b
+vmemory
+R8
+!i10b 1
+!s100 lFJOW[aLLBM8jJFd389d>1
+IjjPg9;^zGbF`K:fz:f^2R1
+R2
+R0
+w1464700718
+8C:/Users/Chester/Desktop/20160531/memory.v
+FC:/Users/Chester/Desktop/20160531/memory.v
+R7
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/memory.v|
+!s101 -O0
+!i113 1
+R5
+vminus
+R8
+!i10b 1
+!s100 oKjD_BEQBS>WP:k[aDg[m1
+I^H@OmaUTjme>=ka^5CPX_3
+R2
+R0
+R10
+8C:/Users/Chester/Desktop/20160531/Minus.v
+FC:/Users/Chester/Desktop/20160531/Minus.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/Minus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/Minus.v|
+!s101 -O0
+!i113 1
+R5
+vmips_single
+R8
+!i10b 1
+!s100 TFDAe<dDjMSX>>ONBPXTd3
+I^f]iZ@]R3^541][X[jK322
+R2
+R0
+w1464700438
+8C:/Users/Chester/Desktop/20160531/mips_single.v
+FC:/Users/Chester/Desktop/20160531/mips_single.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/mips_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mips_single.v|
+!s101 -O0
+!i113 1
+R5
+vMult_Detection
+R8
+!i10b 1
+!s100 hNO4TZcP1S3MMX3HHdBhH3
+IdP5MH[F>F>G1lMUXjA8DW3
+R2
+R0
+Z11 w1464054830
+8C:/Users/Chester/Desktop/20160531/MultFSM.v
+FC:/Users/Chester/Desktop/20160531/MultFSM.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/MultFSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/MultFSM.v|
+!s101 -O0
+!i113 1
+R5
+n@mult_@detection
+vmultip
+R8
+!i10b 1
+!s100 k>zE2JdjFXKIn>8Kn1;`z0
+I91mSAKGLz?f`[5[XC;cVK3
+R2
+R0
+R11
+Z12 8C:/Users/Chester/Desktop/20160531/multiplier.v
+Z13 FC:/Users/Chester/Desktop/20160531/multiplier.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+Z14 !s107 C:/Users/Chester/Desktop/20160531/multiplier.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/multiplier.v|
+!s101 -O0
+!i113 1
+R5
+vmultiplier
+R8
+!i10b 1
+!s100 z;F>JZ@B07^DG9c4eCFYo1
+IF@1o5?4F04U<6l3MkHLPW3
+R2
+R0
+R11
+R12
+R13
+L0 78
+R3
+r1
+!s85 0
+31
+R9
+R14
+R15
+!s101 -O0
+!i113 1
+R5
+vmux0
+R8
+!i10b 1
+!s100 ]XQKJmJl4AfNmo2A[Nm?F3
+IebjDdE43m]fK26]fez3C^1
+R2
+R0
+w1464699428
+8C:/Users/Chester/Desktop/20160531/mux0.v
+FC:/Users/Chester/Desktop/20160531/mux0.v
+L0 5
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/mux0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mux0.v|
+!s101 -O0
+!i113 1
+R5
+vmux1
+R8
+!i10b 1
+!s100 JOfE<?@;[0]FK]80@IjK01
+IdJ[d;^b[5272Ad[Q@1E<T3
+R2
+R0
+R11
+8C:/Users/Chester/Desktop/20160531/mux1.v
+FC:/Users/Chester/Desktop/20160531/mux1.v
+L0 5
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/mux1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mux1.v|
+!s101 -O0
+!i113 1
+R5
+vmux2
+R8
+!i10b 1
+!s100 ZmnajK48[X=MUgX>O7jFY3
+IEF?8G9J?JLfmAo;cE7aWM0
+R2
+R0
+R11
+8C:/Users/Chester/Desktop/20160531/mux2.v
+FC:/Users/Chester/Desktop/20160531/mux2.v
+L0 5
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mux2.v|
+!s101 -O0
+!i113 1
+R5
+vmux3
+R8
+!i10b 1
+!s100 dJ`QW=fRe:T[GO8O@V_XA0
+I9fZLMZLdEIe<Hc5AlHQ:30
+R2
+R0
+R11
+8C:/Users/Chester/Desktop/20160531/mux3.v
+FC:/Users/Chester/Desktop/20160531/mux3.v
+L0 5
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mux3.v|
+!s101 -O0
+!i113 1
+R5
+vmux4
+Z16 !s110 1464701064
+!i10b 1
+!s100 :cLGD3z_j5QkjYZ]Kfdjn2
+IBQLPd@X7_dbPYhBDC_i_e1
+R2
+R0
+R11
+8C:/Users/Chester/Desktop/20160531/mux4.v
+FC:/Users/Chester/Desktop/20160531/mux4.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z17 !s108 1464701064.000000
+!s107 C:/Users/Chester/Desktop/20160531/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/mux4.v|
+!s101 -O0
+!i113 1
+R5
+vMux_for_MultiDetection
+R8
+!i10b 1
+!s100 8[O:2?5F;[31baB_O:H^b1
+I_69`iPTk1]>h1jm^b@Y:L2
+R2
+R0
+R11
+8C:/Users/Chester/Desktop/20160531/Mux_for_MultiDetection.v
+FC:/Users/Chester/Desktop/20160531/Mux_for_MultiDetection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Chester/Desktop/20160531/Mux_for_MultiDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/Mux_for_MultiDetection.v|
+!s101 -O0
+!i113 1
+R5
+n@mux_for_@multi@detection
+vNmemory
+R16
+!i10b 1
+!s100 I?n@e=d>25HHUcfAUN@JR0
+I0=:FSPo68?HAdO1If<9lb2
+R2
+R0
+w1464650799
+8C:/Users/Chester/Desktop/20160531/NewMemory .v
+FC:/Users/Chester/Desktop/20160531/NewMemory .v
+L0 15
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Chester/Desktop/20160531/NewMemory .v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/NewMemory .v|
+!s101 -O0
+!i113 1
+R5
+n@nmemory
+vreg32
+R16
+!i10b 1
+!s100 X7D[Y7GI@:a]8[LLGKMAX0
+IN?M?egWHA8f0_D=a??b6E3
+R2
+R0
+R11
+8C:/Users/Chester/Desktop/20160531/reg32.v
+FC:/Users/Chester/Desktop/20160531/reg32.v
+L0 13
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Chester/Desktop/20160531/reg32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/reg32.v|
+!s101 -O0
+!i113 1
+R5
+vreg_file
+R16
+!i10b 1
+!s100 IK2[C4dJ=]TeN7i2VzI?G3
+I6=LVB=4jf?C;MXN5dmBfS2
+R2
+R0
+Z18 w1464054834
+8C:/Users/Chester/Desktop/20160531/reg_file.v
+FC:/Users/Chester/Desktop/20160531/reg_file.v
+L0 16
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Chester/Desktop/20160531/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/reg_file.v|
+!s101 -O0
+!i113 1
+R5
+vsign_extend
+R16
+!i10b 1
+!s100 :K8nDdmg2`J8IX;hF^3eM2
+IiZHH04g[Db6Yc8fB@2Zg52
+R2
+R0
+R18
+8C:/Users/Chester/Desktop/20160531/sign extend.v
+FC:/Users/Chester/Desktop/20160531/sign extend.v
+L0 10
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Chester/Desktop/20160531/sign extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/sign extend.v|
+!s101 -O0
+!i113 1
+R5
+vsimple_Detection
+R16
+!i10b 1
+!s100 ZzR5g]3LRh07>e[]:9KLC2
+I=N2Tj>F8aWz?UeBDPHlC11
+R2
+R0
+R18
+8C:/Users/Chester/Desktop/20160531/simple_Detection.v
+FC:/Users/Chester/Desktop/20160531/simple_Detection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Chester/Desktop/20160531/simple_Detection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/simple_Detection.v|
+!s101 -O0
+!i113 1
+R5
+nsimple_@detection
+vtb_SingleCycle
+R1
+!i10b 1
+!s100 DN7<U<RN;JlXS@9l<YPIX3
+I:<PdoL4l9CbH=YZ1HW``f0
+R2
+R0
+w1464651092
+8C:/Users/Chester/Desktop/20160531/tb_SingleCycle.v
+FC:/Users/Chester/Desktop/20160531/tb_SingleCycle.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Chester/Desktop/20160531/tb_SingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Chester/Desktop/20160531/tb_SingleCycle.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@single@cycle
